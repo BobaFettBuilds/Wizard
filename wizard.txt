@@ -1,0 +1,7 @@
+name="Boba Fett"
+url="http://archive.org/download/BobaFett_20171022_1211/BobaFett.zip"
+img="http://ia601503.us.archive.org/0/items/JMFSlayer_Icon/BobaFett_icon.png"
+fanart="http://ia601503.us.archive.org/0/items/JMFSlayer_Icon/BobaFett_fanart.jpg"
+description="Clean & simple. Man of few words."
+version="1.0"
+
