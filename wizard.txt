@@ -4,4 +4,3 @@ img="https://github.com/BobaFettBuilds/images/blob/master/icon.png?raw=true"
 fanart="https://github.com/BobaFettBuilds/images/blob/master/fanart.jpg?raw=true"
 description="Clean & simple. Man of few words."
 version="1.0"
-
