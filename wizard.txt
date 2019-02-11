@@ -1,5 +1,5 @@
 name="Boba Fett"
-url="http://archive.org/download/BobaFett_20171022_1211/BobaFett.zip"
+url="https://www.dropbox.com/s/6gc1c5baq3aher1/bobafett.zip?dl=1"
 img="https://github.com/BobaFettBuilds/images/blob/master/icon.png?raw=true"
 fanart="https://github.com/BobaFettBuilds/images/blob/master/fanart.jpg?raw=true"
 description="Clean & simple. Man of few words."
